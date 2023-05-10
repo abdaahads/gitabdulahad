@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Sheikh</h1>
-<h3 align="center">A am a Student Developer from India</h3>
+<h3 align="center">I am a Student Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitabdulahad&label=Profile%20views&color=0e75b6&style=flat" alt="gitabdulahad" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development using Java and .Net**
 
-- 📝 I regularly write articles on [https://ahad.hashnode.dev](https://ahad.hashnode.dev)
+- 📝 I regularly write articles on [https://pgdacmate.hashnode.dev](https://pgdacmate.hashnode.dev)
 
 - 📫 How to reach me **abdulahadsheikh@outlook.in**
 
