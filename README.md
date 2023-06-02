@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://twitter.com/twtabdulahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtabdulahad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sheikhabdulahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhabdulahad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21746823/abdul-ahad-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21746823/abdul-ahad-sheikh" height="30" width="40" /></a>
 <a href="https://instagram.com/iamsheikhabdulahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsheikhabdulahad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ahadyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahadyt" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@abdulahadsheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdulahadsheikh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21746823/abdul-ahad-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21746823/abdul-ahad-sheikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
