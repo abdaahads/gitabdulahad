@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Sheikh</h1>
-<h3 align="center">I am a Student Developer from India, learning Full Stack Development with Java and .Net Framework</h3>
+<h3 align="center">I am a Student Developer from India, learning Full Stack Development with MERN Stack, Java and .Net Framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitabdulahad&label=Profile%20views&color=0e75b6&style=flat" alt="gitabdulahad" /> </p>
 
