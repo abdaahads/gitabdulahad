@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulahadsheikh@outlook.in**
 
-- ⚡ Fun fact **I am a Mechanical Engineer by formal education and a Coder by choice**
+- ⚡ Fun fact **I am a Mechanical Engineer by formal education**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
